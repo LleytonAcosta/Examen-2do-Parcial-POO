@@ -1,0 +1,5 @@
+C:\Users\Lleytn\Desktop\Examen 2do parcial Poo\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Lleytn\Desktop\Examen 2do parcial Poo\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Lleytn\Desktop\Examen 2do parcial Poo\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lleytn\Desktop\Examen 2do parcial Poo\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Lleytn\Desktop\Examen 2do parcial Poo\CapaDatos\obj\Release\CapaDatos.pdb
